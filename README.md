@@ -1,5 +1,4 @@
 # NLWdoctorcare
-Projeto feito na NLW
 
 <p align="center">
     <img alt="Git Explorer" src="Capa.jpg"/>
